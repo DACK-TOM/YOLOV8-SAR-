@@ -5,15 +5,22 @@
 ![image](https://github.com/user-attachments/assets/c8bab4ff-bb00-4ee7-9bb4-16654f077139)
 ![image](https://github.com/user-attachments/assets/2bbd1903-c1c5-41b0-8a85-e9a4f4e76dde)
 ![image](https://github.com/user-attachments/assets/970b5c59-7c86-4a74-88a0-b648cc42b185)
+
+
 详情请看   '说明1_27.doc'文件
 
 使用说明：
 因为后来我需要把项目打包成软件，尽管我已经修改完毕，但难免会有一些不太匹配的地方，可以一起讨论。
+
 1，配置yolov8并成功运行一次
+
 2，将本项目文件直接复制到yolov8文件夹中
+
 3，直接运行  YOLOV8-SAR图像船舶目标检测系统.py
 
+
 tips:
+
 将
 background_img = 'D:/桌面1/ship1_27.jpg'
 更改为你自己的背景图
