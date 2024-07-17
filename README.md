@@ -1,3 +1,11 @@
+展示：
+![image](https://github.com/user-attachments/assets/64040e0c-0b87-4697-ac4a-b3e1196903b7)
+输入账号：admin
+密码：123
+![image](https://github.com/user-attachments/assets/c8bab4ff-bb00-4ee7-9bb4-16654f077139)
+![image](https://github.com/user-attachments/assets/2bbd1903-c1c5-41b0-8a85-e9a4f4e76dde)
+![image](https://github.com/user-attachments/assets/970b5c59-7c86-4a74-88a0-b648cc42b185)
+详情请看   '说明1_27.doc'文件
 
 使用说明：
 因为后来我需要把项目打包成软件，尽管我已经修改完毕，但难免会有一些不太匹配的地方，可以一起讨论。
